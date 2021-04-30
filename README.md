@@ -1,3 +1,6 @@
+<img src="https://cdn6.aptoide.com/imgs/0/a/4/0a4b5a1e7393efb5bfa126ec9f1ba443_icon.png?w=120" width="200">
+
+
 Spck Editor adalah aplikasi code editor di Android dengan fitur lengkap. Aplikasi ini bisa di sebut mirip dengan vscode, bagaimana tidak dalam aplikasi ini kamu dapat setting snippet menjadi vscode maupun sublimetext 3.
 
 Spck editor memungkinkan Anda menulis kode kapan pun, di mana pun. Ubah cuplikan kode dengan cepat, lihat pratinjaunya, dan komit ke repositori git apa pun dengan IDE JavaScript yang kecil (namun kuat) ini. Tidak perlu lagi berkompromi saat mengembangkan perangkat Android seluler Anda. Kloning dari Github / Gitlab / Bitbucket, AWS CodeCommit, Azure DevOps, atau lebih, buat komitmen dan dorong dari ponsel Anda.
@@ -49,3 +52,22 @@ Spck editor memungkinkan Anda menulis kode kapan pun, di mana pun. Ubah cuplikan
 
 ### Download
 > [klik untuk download](https://play.google.com/store/apps/details?id=io.spck)
+
+<p>
+    <img src="https://github-readme-stats.vercel.app/api?username=zen-deve&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zen-deve&layout=compact" height=180 />
+</p>
+
+## Trophies
+
+<p align="center"> <img width=800 src="https://github-profile-trophy.vercel.app/?username=zen-deve&row=2&column=3"/>
+
+
+### Mari terhubung!
+<p>
+        <a href="https://fb.me/zendev.rf.gd" target="blank"><img src="https://img.shields.io/badge/Zen Dev-30302f?style=flat&logo=facebook" /></a>
+        <a href="https://instagram.com/zen_dev.official" target="blank"><img src="https://img.shields.io/badge/Zen Dev-30302f?style=flat&logo=instagram" /></a>
+        <a href="https://www.zen-dev.rf.gd" target="blank"><img src="https://img.shields.io/badge/https://zen-dev.rf.gd-30302f?style=flat&logo=blogger" /></a>
+        <a href="https://wa.me/6289530639515" target="blank"><img src="https://img.shields.io/badge/089530639515-30302f?style=flat&logo=whatsapp" /></a>
+</p>
+
